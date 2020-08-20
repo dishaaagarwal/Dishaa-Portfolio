@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dishaa Agarwal</title>
+    <link>https://dishaaagarwal.github.io/post/</link>
+    <description>Recent content in Projects on Dishaa Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://dishaaagarwal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Car Price Prediction</title>
+      <link>https://dishaaagarwal.github.io/post/project-1/</link>
+      <pubDate>Sat, 15 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://dishaaagarwal.github.io/post/project-1/</guid>
+      <description>This Repository contains Files related to Model Building and Deployment using Flask and Heroku.
+  In this project I have predicted the Car price given the data from kaggle.
+  Used Ramdom Forest Regressor for model building
+  I got the RMSE score of – 2.005.
+    Githhub Repository-&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Project II: Restaurant Review Prediction</title>
+      <link>https://dishaaagarwal.github.io/post/project-2/</link>
+      <pubDate>Mon, 10 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://dishaaagarwal.github.io/post/project-2/</guid>
+      <description>This repository contains files regarding the Model Buliding and Deployment using Flask and Heroku.
+  I have build a model which predicts the restaurant review as GOOD / BAD based on customer reviews.
+  Used various NLP techniques for creating the corpus and text cleaning.
+  I was able to achieve an accuracy of 78.05% using Multinomial Naive Bayes theorem.
+    Githhub Repository-&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>
